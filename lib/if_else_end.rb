@@ -1,1 +1,1 @@
-Time
+time = Time.now.sec
